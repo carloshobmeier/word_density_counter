@@ -1,0 +1,31 @@
+
+
+
+PORTUGUÊS COMPLETO
+['nessa', 'nesta', 'nesse', 'neste', 'desse', 'deste', 'dessa', 'desta', 'não', '—', 'à', 'ao', 'é', 'aos', '-', 'às', 'um', 'uma', 'uns', 'umas', 'o', 'a', 'os', 'as','de', 'da', 'do', 'das', 'dos', 'em', 'no', 'na', 'nos', 'nas', 'por', 'per', 'para','com', 'como', 'ante', 'até', 'após', 'desde', 'entre', 'sem', 'sob', 'sobre', 'trás','ele', 'ela', 'eles', 'elas', 'seu', 'sua', 'seus', 'suas', 'isso', 'isto', 'este', 'esta', 'estes', 'estas', 'aquele', 'aquela', 'aqueles', 'aquelas','eu', 'tu', 'nós', 'vós', 'mim', 'ti', 'si', 'me', 'te', 'se', 'lhe', 'o', 'a', 'os', 'as','e', 'nem', 'mas', 'ou', 'já', 'quando', 'porque', 'que', 'como', 'se', 'enquanto','aqui', 'lá', 'onde', 'quando', 'como', 'muito', 'pouco', 'bem', 'mal', 'só', 'também', 'tanto','há', 'isso', 'isto', 'algo', 'algum', 'alguma', 'alguns', 'algumas', 'nada', 'cada']
+
+
+PORTUGUÊS BÁSICO
+['e', 'é', 'me', '-', '—', 'o', 'a', 'os', 'as', 'um', 'uma', 'uns', 'umas', 'de', 'da', 'do', 'das', 'dos', 'em', 'no', 'na', 'nos', 'nas', 'que', 'não', 'se', 'para', 'com', 'como', 'por', 'ao', 'aos', 'às', 'à']
+
+
+
+==============================================================================
+
+
+
+- INGLÊS COMPLETO
+
+exclude_words = [
+    'a', 'an', 'the', 'of', 'at', 'by', 'for', 'with', 'about', 'against',
+    'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below',
+    'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under',
+    'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why',
+    'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such',
+    'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't',
+    'can', 'will', 'just', 'don', 'should', 'now', 'he', 'him', 'his', 'himself', 'she',
+    'her', 'hers', 'herself', 'it', 'its', 'itself', 'they', 'them', 'their', 'theirs',
+    'themselves', 'this', 'that', 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be',
+    'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'the',
+    'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while'
+]
